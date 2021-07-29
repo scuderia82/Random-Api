@@ -1,3 +1,28 @@
+.mystyle{
+  font-style:italic;
+  color:white ;
+  border:2px solid blue;
+  background-color: lightblue;
+  font-family:cursive;
+
+}
+.styles{
+  color:white;
+  font-size:60;
+  font-style:bold;
+  border:2px solid blue;
+  background-color: lightblue;
+  font-family: cursive;
+
+
+}
+.quotes{
+  font-size:60;
+  font-family:cursive;
+  color: rgb(24, 3, 36);
+  text-align:center;
+}
+
 .App {
   text-align: center;
 }
